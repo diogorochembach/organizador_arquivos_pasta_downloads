@@ -35,11 +35,11 @@ Configurando o agendador de tarefas para rodar automaticamente o programa todos 
 2-Abrir a aba disparadores - novo
 <img width="790" height="647" alt="image" src="https://github.com/user-attachments/assets/ddb05289-b28e-428c-8dbc-24105b5439ab" />
 
-3-Abrir a aba de ações - novo (etapa mais importante)
-3.1-No campo Programa/script precisa ser informado onde se encontra o interpretador do python (caminho, abre o promp de comando e digita o comando WHERE PYTHON),
--Passa o caminho do interpretador
--Diretório de trabalho
--Arquivo
+3-Abrir a aba de ações - novo (etapa mais importante)<br>
+3.1-No campo Programa/script precisa ser informado onde se encontra o interpretador do python (caminho, abre o promp de comando e digita o comando WHERE PYTHON),<br>
+-Passa o caminho do interpretador<br>
+-Diretório de trabalho<br>
+-Arquivo<br>
 <img width="795" height="618" alt="image" src="https://github.com/user-attachments/assets/f01c104a-75f3-4d6b-a1c9-fd64abc2aae7" />
 
 
