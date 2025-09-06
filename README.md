@@ -1,6 +1,6 @@
-Organizador de Arquivos
-Escreva um programa em Python que organize os arquivos
-em uma pasta de downloads, movendo-os para pastas específicas
+Organizador de Arquivos <br>
+Programa em Python que organize os arquivos
+em uma pasta de downloads, movendo-os para pastas específicas.
 .exe
 .csv
 .jpg
@@ -15,9 +15,12 @@ em uma pasta de downloads, movendo-os para pastas específicas
 .mp3
 .m4a
 
-Para cada tipo de arquivo, o programa deve criar 
+Para cada tipo de arquivo, o programa criar 
 uma pasta específica (se ela ainda não existir) e mover os arquivos correspondentes para essa pasta.
 
+Obs.: Caso a extensão não estaja na lista pode ser adicionada.
+
+Objetivo do programa
 1 - Acessar o diretório de downloads do sistema operacional
 2 - Listar todos os arquivos do diretório
 3 - Verificar a extensão de cada arquivo
