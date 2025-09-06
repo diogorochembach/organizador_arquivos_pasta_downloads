@@ -28,3 +28,20 @@ Objetivo do programa
 
 <img width="685" height="485" alt="image" src="https://github.com/user-attachments/assets/df82231b-1433-4136-a76a-4fe819d72002" />
 
+Configurando o agendador de tarefas para rodar automaticamente o programa todos os dias
+1-Acessar o agendador de tarefas pelo menu pesquisar do windows.
+Criar uma tarefa nova e adidionas esses campos a tarefa, nome e versão do windows.
+<img width="797" height="606" alt="image" src="https://github.com/user-attachments/assets/cc27d722-4261-4701-8993-42a9e74e5a8e" />
+
+2-Abrir a aba disparadores - novo
+<img width="790" height="647" alt="image" src="https://github.com/user-attachments/assets/ddb05289-b28e-428c-8dbc-24105b5439ab" />
+
+3-Abrir a aba de ações - novo (etapa mais importante)
+3.1-No campo Programa/script precisa ser informado onde se encontra o interpretador do python (caminho, abre o promp de comando e digita o comando WHERE PYTHON),
+-Passa o caminho do interpretador
+-Diretório de trabalho
+-Arquivo
+<img width="795" height="618" alt="image" src="https://github.com/user-attachments/assets/f01c104a-75f3-4d6b-a1c9-fd64abc2aae7" />
+
+
+
