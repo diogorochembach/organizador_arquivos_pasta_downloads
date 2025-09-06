@@ -40,8 +40,8 @@ Configurando o agendador de tarefas para rodar automaticamente o programa todos 
 -Passa o caminho do interpretador<br>
 -Diretório de trabalho<br>
 -Arquivo<br>
-<img width="795" height="618" alt="image" src="https://github.com/user-attachments/assets/f01c104a-75f3-4d6b-a1c9-fd64abc2aae7" /><br><br><br>
-Pronto, seu programa já esta configurado para rodar automaticamente!
+<img width="795" height="618" alt="image" src="https://github.com/user-attachments/assets/f01c104a-75f3-4d6b-a1c9-fd64abc2aae7" /><br><br>
+<h3>Pronto, seu programa já está configurado para rodar automaticamente!</h3>
 
 
 
