@@ -28,10 +28,9 @@ Objetivo do programa
 
 <img width="685" height="485" alt="image" src="https://github.com/user-attachments/assets/df82231b-1433-4136-a76a-4fe819d72002" />
 
-Configurando o agendador de tarefas para rodar automaticamente o programa todos os dias
+Configurando o agendador de tarefas para rodar automaticamente o programa todos os dias<br>
 1-Acessar o agendador de tarefas pelo menu pesquisar do windows.
-Criar uma tarefa nova e adidionas esses campos a tarefa, nome e versão do windows.
-<img width="797" height="606" alt="image" src="https://github.com/user-attachments/assets/cc27d722-4261-4701-8993-42a9e74e5a8e" />
+Criar uma tarefa nova e adidionas esses campos a tarefa, nome e versão do windows.<br>
 
 2-Abrir a aba disparadores - novo
 <img width="790" height="647" alt="image" src="https://github.com/user-attachments/assets/ddb05289-b28e-428c-8dbc-24105b5439ab" />
