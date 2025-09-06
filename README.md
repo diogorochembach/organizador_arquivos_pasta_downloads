@@ -24,13 +24,13 @@ Objetivo do programa
 1 - Acessar o diretório de downloads do sistema operacional
 2 - Listar todos os arquivos do diretório
 3 - Verificar a extensão de cada arquivo
-4 - Mover os arquivos para pastas específicas de acordo com o tipo de arquivo
+4 - Mover os arquivos para pastas específicas de acordo com o tipo de arquivo<br>
 
 <img width="685" height="485" alt="image" src="https://github.com/user-attachments/assets/df82231b-1433-4136-a76a-4fe819d72002" />
 
 Configurando o agendador de tarefas para rodar automaticamente o programa todos os dias<br>
-1-Acessar o agendador de tarefas pelo menu pesquisar do windows.
-Criar uma tarefa nova e adidionas esses campos a tarefa, nome e versão do windows.<br>
+1-Acessar o agendador de tarefas pelo menu pesquisar do windows.<br>
+1.1-Criar uma tarefa nova e adicionar esses campos a tarefa, nome e versão do windows.<br>
 
 2-Abrir a aba disparadores - novo
 <img width="790" height="647" alt="image" src="https://github.com/user-attachments/assets/ddb05289-b28e-428c-8dbc-24105b5439ab" />
