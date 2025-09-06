@@ -1,5 +1,5 @@
 Organizador de Arquivos <br>
-Programa em Python que organiza os arquivos
+Programa em Python que organiza os arquivos automaticamente
 em uma pasta de downloads, movendo-os para pastas específicas.
 .exe
 .csv
